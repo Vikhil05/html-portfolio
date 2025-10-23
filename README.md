@@ -2,8 +2,6 @@
 
 Welcome to my **HTML Portfolio**, a personal project created during my learning journey through a **Full Stack Web Development course on Udemy**.
 
-This portfolio marks the beginning of my web development journey — built entirely with **HTML** and a touch of creativity. It showcases my understanding of web structure, content organization, and basic design using HTML elements.
-
 ---
 
 ## 📖 About This Project
@@ -11,7 +9,6 @@ This portfolio marks the beginning of my web development journey — built entir
 This project is a reflection of:
 
 - My first steps into web development
-- Hands-on learning from Udemy's full stack course
 - Building a personal site from scratch using pure HTML
 - Hosting a website using GitHub Pages
 
@@ -82,7 +79,7 @@ Check out the live version here:
 
 ## 🙌 Thanks
 
-Thanks to the amazing instructor and the Udemy course community for making learning web development accessible and engaging!
+Thanks!!
 
 ---
 
